@@ -1,21 +1,18 @@
 ### Hi there 👋
 
-I am an aspiring data scientist and industrial engineering student.
+I am a Data Scientist, certified by DataCamp as a Data Scientist and Data Analyst, with expertise in collecting, transforming, and organizing data for insightful analysis and informed data-driven decision-making. I have a strong command of tools like SQL, spreadsheets, Tableau, and Python, combined with excellent communication, organizational, and analytical skills. 
 
+I'm seeking opportunities that offer me **the chance to learn and further develop my skills** within the role of a data scientist. 
+Please feel free to reach out to me via email or LinkedIn to discuss potential opportunities.
 
-- 🔭 I’m currently practicing my data scinetist skills by working on DataCamp projects.
+<br>
+
+Notion Portfolio: [Ezzaddeen Mofarreh's Portfolio](https://ezzaddeen.notion.site/Ezzaddeen-Mofarreh-s-Portfolio-f1fe248b35554931ac0b93e3e75c6ca1?pvs=4)
 
 
 ### Connect with me:
 
 [<img align="left" alt="Ezzaddeen Mofarreh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/ezzaddeen-mofarreh/)
 
-### Languages and Tools:
 
-<img align="left" alt="PostgreSQL" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" />
-<img align="left" alt="Python" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Python_logo_and_wordmark.svg/2560px-Python_logo_and_wordmark.svg.png" />
-<img align="left" alt="Pandas" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" />
-<img align="left" alt="Matplotlib" width="60px" src="https://matplotlib.org/_static/logo2_compressed.svg" />
-<img align="left" alt="Seaborn" width="60px" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" />
-<img align="left" alt="NumPy" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/1280px-NumPy_logo_2020.svg.png" />
-<img align="left" alt="Scikit-Learn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
+
